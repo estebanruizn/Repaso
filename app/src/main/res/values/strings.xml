@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Repaso</string>
+
+
+    <string name="txtTitulo">Manejo de activities</string>
+    <string name="txtOp1">Nombre</string>
+    <string name="txtOp2">Año nacimiento</string>
+    <string name="btnCalcular">Calcular edad</string>
+    <string name="btnir">Cambiar de activity</string>
+    <string name="txttitulo2">SEGUNDO ACTIVITY</string>
+    <string name="btnRegresar">REGRESAR</string>
+    <string name="edad_act" ></string>
+
+</resources>
